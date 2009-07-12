@@ -1,6 +1,6 @@
 h2. Summary
 
-This is a repo intended for use as a template for your wordpress projects.
+This repository is intended for use as a template for your WordPress projects. By following these instructions you can quickly and easily deploy WordPress using Git and Capistrano.
 
 h2. Setup
 
